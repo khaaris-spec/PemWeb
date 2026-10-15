@@ -1,0 +1,24 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2bd52;
+    margin: 12px;
+}
+
+h3 {
+    color: #222;
+}
+
+.konten {
+    background-color: rgb(229, 255, 0);
+    padding: 5px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #670505;
+}
+
+p {
+    line-height: 1.4;
+}

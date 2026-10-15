@@ -1,0 +1,59 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f1f8;
+    margin: 10px;
+    color: black;
+}
+
+.nama-file {
+    color: black;
+}
+
+.container {
+    background-color: #73ea4f;
+    border: 2px solid #0c691b;
+    border-radius: 8px;
+    padding: 10px;
+    max-width: 600px;
+}
+
+h1 {
+    background-color: #448a07;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+p {
+    background-color: #074830;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+ul {
+    background-color: #04a258;
+    padding: 15px 15px 15px 40px;
+    border-radius: 5px;
+    color: black;
+}
+
+h2 {
+    background-color: #074c3c;
+    padding: 10px;
+    border-left: 5px solid #b5a2d5;
+    color: black;
+}
+
+ol {
+    background-color: #0a483c;
+    padding: 15px 15px 15px 40px;
+    border-radius: 5px;
+    color: black;
+}
+
+li {
+    padding: 2px;
+    color: black;
+}

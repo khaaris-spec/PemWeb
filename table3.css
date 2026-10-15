@@ -1,0 +1,103 @@
+```css
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fa;
+    color: black;
+    margin: 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h3 {
+    margin: 0 0 12px;
+    color: black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #555;
+    padding: 9px 7px;
+    text-align: center;
+    color: black;
+}
+
+thead th {
+    background-color: #315984;
+    color: white;
+    font-size: 14px;
+}
+
+.nama {
+    background-color: #e4ebf3;
+    text-align: left;
+    font-weight: bold;
+}
+
+.semester1 {
+    background-color: #eaf6ff;
+}
+
+.semester2 {
+    background-color: #eafbed;
+}
+
+.lulus {
+    color: #286344;
+    font-weight: bold;
+}
+
+.remedial {
+    color: #c03939;
+    font-weight: bold;
+}
+
+.catatan {
+    text-align: left;
+}
+
+.kehadiran {
+    width: 100%;
+    font-size: 12px;
+    margin: 0;
+}
+
+.kehadiran th {
+    background-color: #315984;
+    color: white;
+    padding: 4px;
+}
+
+.kehadiran td {
+    padding: 4px;
+}
+
+.rata-rata td {
+    background-color: #edf2f7;
+    font-weight: bold;
+    padding: 14px 5px;
+}
+
+@media (max-width: 700px) {
+    .container {
+        overflow-x: auto;
+    }
+
+    table {
+        min-width: 700px;
+    }
+}
+```

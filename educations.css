@@ -1,0 +1,81 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3f85db;
+    margin: 10px;
+    color: #020202;
+}
+
+.nama-file {
+    color: #000000;
+}
+
+.container {
+    background-color: rgb(67, 13, 13);
+    border: 1px solid #9c2727;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #39a1a9;
+    text-align: center;
+    font-size: 32px;
+}
+
+.deskripsi {
+    text-align: center;
+    color: #607d8b;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #bbdefb;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+}
+
+caption {
+    font-size: 22px;
+    font-weight: bold;
+    color: #1565c0;
+    padding: 12px;
+}
+
+th, td {
+    border: 1px solid #90a4ae;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #1565c0;
+    color: white;
+    text-align: center;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #e3f2fd;
+}
+
+tbody tr:hover {
+    background-color: #bbdefb;
+}
+
+.catatan {
+    background-color: #e8f5e9;
+    border-left: 4px solid #43a047;
+    padding: 8px 12px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.catatan p {
+    margin: 5px;
+}
+```
